@@ -180,6 +180,7 @@ git push origin main
 ```
 gcube-extension-guide/
 ├── README.md        # 프로젝트 설명 및 가이드 (현재 파일)
+├── .gitignore       # 민감한 파일 제외 설정
 ├── setup.sh         # Ollama + Open WebUI 설치 + 모델 다운로드
 ├── start.sh         # 서비스 시작 스크립트 (prompt.txt 자동 로드)
 └── prompt.txt       # 시스템 프롬프트 설정 파일
