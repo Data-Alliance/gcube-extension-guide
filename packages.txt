@@ -1,0 +1,6 @@
+git
+curl
+wget
+zstd
+nano
+vim
